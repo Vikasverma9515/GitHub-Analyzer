@@ -15,7 +15,7 @@ import { LanguageAnalysis } from '../components/LanguageAnalysis';
 // import { TopicsAnalysis } from '../components/TopicsAnalysis';
 // import { ActivityDashboard } from '../components/ActivityDashboard';
 import { AchievementBadges } from '../components/AchievementBadges';
-import { RepoTrends } from '../components/RepoTrends';
+// import { RepoTrends } from '../components/RepoTrends';
 import { RepoSizeAnalysis } from '../components/RepoSizeAnalysis';
 
 const Analyze = () => {

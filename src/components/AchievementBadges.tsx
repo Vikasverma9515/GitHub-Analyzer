@@ -14,7 +14,7 @@ interface AchievementBadgesProps {
   user: any; // GitHub user data
 }
 
-export const AchievementBadges = ({ repositories, commits, user }: AchievementBadgesProps) => {
+export const AchievementBadges = ({ repositories, commits }: AchievementBadgesProps) => {
   const [selectedBadge, setSelectedBadge] = useState<Achievement | null>(null);
 
   const calculateAchievements = (): Achievement[] => {
