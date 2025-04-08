@@ -267,4 +267,3 @@ This README now includes:
 - Known issues
 - Future plans
 
-All in one file, making it easy for anyone to understand and get started with the project. Let me know if you'd 
